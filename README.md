@@ -1,2 +1,2 @@
-# Portugol Studio
- 
+# Portugol-Studio
+ Aulas e exercícios sobre Algoritmos
